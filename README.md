@@ -1,2 +1,2 @@
 # PHP-Education
-🚀   this is PHP notes repository
+this is PHP notes repository🚀
