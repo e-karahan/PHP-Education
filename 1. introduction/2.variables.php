@@ -5,6 +5,7 @@
       - starts with character or underline '_' not number
       - starts can by turkish characters
       - case sensitive
+      - can not starts by number
 
   */
   $ceyhun = 'Ceyhun Bahadır Çelik';
