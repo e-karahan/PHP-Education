@@ -17,6 +17,7 @@ I think we shouldn't look what is the best of programming language. I think we s
 # Contents
 
 ### 1.Introduction
+
 | Number | Subject            |
 |  ---   | ---                |
 | 1      | Syntax             |
@@ -39,3 +40,12 @@ using with define() function and have same syntax rule with variable.
 
 #### 5. Magic Quotes
 Can manipulate string and magic quotes provides flexibility .Generally use better to use (") instead of (')
+
+### 2. Operators
+
+| Number | Subject              |
+|  ---   |  ---                 |
+| 1      | Arithmetic Operators |
+
+#### 1. Arithmetic Operators
+practiced math operations, child level. Important of brackets in operation priority.
