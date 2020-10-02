@@ -101,4 +101,5 @@ possible to use conditions without curly braces and also this is the best way to
 | ---    | ---                |
 | 1      | Create Array       |
 
-#### 1. Create Array
+#### 1. Array Identification
+array is saving us to use more variable if that variables sub element of anything.
