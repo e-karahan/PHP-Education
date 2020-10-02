@@ -69,9 +69,13 @@ difference between comparison operators and logical operators is comparison not 
 
 ### 3. Conditions
 
-| Number | Subject |
-| ---    | ---     |
-| 1      | if else |
+| Number | Subject     |
+| ---    | ---         |
+| 1      | if else     |
+| 2      | switch case |
 
 #### 1. if else
 purpose is make whatever we want in right condition/conditions.
+
+#### 2. switch case
+working logic is same as before. Generally using in functions.
