@@ -19,7 +19,7 @@ I think we shouldn't look what is the best of programming language. I think we s
 ### 1.Introduction
 
 | Number | Subject            |
-|  ---   | ---                |
+| ---    | ---                |
 | 1      | Syntax             |
 | 2      | Variables          |
 | 3      | Data Types         |
@@ -44,8 +44,13 @@ Can manipulate string and magic quotes provides flexibility .Generally use bette
 ### 2. Operators
 
 | Number | Subject              |
-|  ---   |  ---                 |
+| ---    | ---                  |
 | 1      | Arithmetic Operators |
+| 2      | Assignment Operators |
+
 
 #### 1. Arithmetic Operators
 practiced math operations, child level. Important of brackets in operation priority.
+
+#### 2. Assignment Operators
+possible to make math operations before assign a value and also merge a value and merge a value before assign a value. 
