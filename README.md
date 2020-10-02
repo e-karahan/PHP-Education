@@ -65,3 +65,4 @@ using like a assignment operators but not flexible. focusing same variable and o
 check condition between variables. figure out make condition between same value but different type of variables.
 
 #### 5. Logical Operators
+difference between comparison operators and logical operators is comparison not looking math or variable types. check between true and false or true or false or is it false
