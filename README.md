@@ -22,6 +22,7 @@ I think we shouldn't look what is the best of programming language. I think we s
 | 2      | Operators          |
 | 3      | Conditions         |
 | 4      | Arrays             |
+| 5      | Loops              |
 
 ### 1.Introduction
 
@@ -111,3 +112,11 @@ possible to use more than 2 arrays together in 1 array. It's clear and saving us
 
 #### 3. Constant Array
 define() can make constant array like a constant variable. Same rule but different purpose
+
+### 5. Loops
+
+| Number | Subject              |
+| ---    | ---                  |
+| 1      | For Loop             |
+
+#### 1. For Loop
