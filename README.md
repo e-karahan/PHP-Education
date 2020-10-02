@@ -73,9 +73,13 @@ difference between comparison operators and logical operators is comparison not 
 | ---    | ---         |
 | 1      | if else     |
 | 2      | switch case |
+| 3      | ternary     |
 
 #### 1. if else
 purpose is make whatever we want in right condition/conditions.
 
 #### 2. switch case
 working logic is same as before. Generally using in functions.
+
+#### 3. ternary
+Ternary is my favorite. you can make if else contidions in 1 line!
