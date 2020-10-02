@@ -71,19 +71,27 @@ difference between comparison operators and logical operators is comparison not 
 
 | Number | Subject            |
 | ---    | ---                |
-| 1      | if else            |
-| 2      | switch case        |
-| 3      | ternary            |
-| 4      | alternative syntax |
+| 1      | If Else            |
+| 2      | Switch Case        |
+| 3      | Ternary            |
+| 4      | Alternative Syntax |
 
-#### 1. if else
+#### 1. If Else
 purpose is make whatever we want in right condition/conditions.
 
-#### 2. switch case
+#### 2. Switch Case
 working logic is same as before. Generally using in functions.
 
-#### 3. ternary
-Ternary is my favorite. you can make if else contidions in 1 line!
+#### 3. Ternary
+Ternary is my favorite. you can make if else condition in 1 line!
 
-#### 4. alternative syntax
+#### 4. Alternative Syntax
 possible to use conditions without curly braces and also this is the best way to use PHP conditions in HTML
+
+### 4. Arrays
+
+| Number | Subject            |
+| ---    | ---                |
+| 1      | Create Array       |
+
+#### 1. Create Array
