@@ -74,3 +74,4 @@ difference between comparison operators and logical operators is comparison not 
 | 1      | if else |
 
 #### 1. if else
+purpose is make whatever we want in right condition/conditions.
