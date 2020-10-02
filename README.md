@@ -66,3 +66,11 @@ check condition between variables. figure out make condition between same value 
 
 #### 5. Logical Operators
 difference between comparison operators and logical operators is comparison not looking math or variable types. check between true and false or true or false or is it false
+
+### 3. Conditions
+
+| Number | Subject |
+| ---    | ---     |
+| 1      | if else |
+
+#### 1. if else
