@@ -53,4 +53,7 @@ Can manipulate string and magic quotes provides flexibility .Generally use bette
 practiced math operations, child level. Important of brackets in operation priority.
 
 #### 2. Assignment Operators
-possible to make math operations before assign a value and also merge a value and merge a value before assign a value. 
+possible to make math operations before assign a value and also merge a value and merge a value before assign a value.
+
+#### 3. Increase Decrease Operators
+using like a assignment operators but not flexible. focusing same variable and only increase and decrease.

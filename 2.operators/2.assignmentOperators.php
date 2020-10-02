@@ -8,7 +8,7 @@
       -> /= assign a value by dividing
       -> %= assign a value by mod
       -> .  merge
-      -> . assign a value by merge
+      -> .= assign a value by merge
   */
 
   /*
