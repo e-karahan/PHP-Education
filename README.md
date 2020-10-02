@@ -101,9 +101,13 @@ possible to use conditions without curly braces and also this is the best way to
 | ---    | ---                  |
 | 1      | Array Identification |
 | 2      | Nested Array         |
+| 3      | Constant Array       |
 
 #### 1. Array Identification
 array is saving us to use more variable if that variables sub element of anything.
 
 #### 2. Nested Array
 possible to use more than 2 arrays together in 1 array. It's clear and saving us more arrays.
+
+#### 3. Constant Array
+define() can make constant array like a constant variable. Same rule but different purpose
