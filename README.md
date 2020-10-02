@@ -43,10 +43,12 @@ Can manipulate string and magic quotes provides flexibility .Generally use bette
 
 ### 2. Operators
 
-| Number | Subject              |
-| ---    | ---                  |
-| 1      | Arithmetic Operators |
-| 2      | Assignment Operators |
+| Number | Subject                     |
+| ---    | ---                         |
+| 1      | Arithmetic Operators        |
+| 2      | Assignment Operators        |
+| 3      | Increase Decrease Operators |
+| 3      | Comparison Operators        |
 
 
 #### 1. Arithmetic Operators
@@ -57,3 +59,5 @@ possible to make math operations before assign a value and also merge a value an
 
 #### 3. Increase Decrease Operators
 using like a assignment operators but not flexible. focusing same variable and only increase and decrease.
+
+#### 4. Comparison Operators
