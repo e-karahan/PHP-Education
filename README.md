@@ -115,8 +115,21 @@ define() can make constant array like a constant variable. Same rule but differe
 
 ### 5. Loops
 
-| Number | Subject              |
-| ---    | ---                  |
-| 1      | For Loop             |
+| Number | Subject      |
+| ---    | ---          |
+| 1      | For Loop     |
+| 2      | Foreach Loop |
+| 3      | While Loop   |
+| 4      | Do-While     |
 
 #### 1. For Loop
+if we need to make operation in necessary range, this is the best way. Also can use alternative syntax like a conditions.
+
+#### 2. Foreach Loop
+-
+
+#### 3. While Loop
+-
+
+#### 4. Do-While
+-
