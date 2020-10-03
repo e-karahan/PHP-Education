@@ -126,7 +126,7 @@ define() can make constant array like a constant variable. Same rule but differe
 if we need to make operation in necessary range, this is the best way. Also can use alternative syntax like a conditions.
 
 #### 2. Foreach Loop
--
+if we don't need range and if we just want to do array operation, best way!
 
 #### 3. While Loop
 -
