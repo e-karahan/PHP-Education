@@ -23,6 +23,7 @@ I think we shouldn't look what is the best of programming language. I think we s
 | 3      | Conditions         |
 | 4      | Arrays             |
 | 5      | Loops              |
+| 6      | Functions          |
 
 ### 1.Introduction
 
@@ -133,3 +134,45 @@ keep working while condition is true.
 
 #### 4. Do-While
 working once whatever condition. If condition true, keep working.
+
+### 6. Functions
+
+| Number | Subject                                  |
+| ---    | ---                                      |
+| 1      | Function Identification                  |
+| 2      | Anonymous Functions                      |
+| 3      | Sending Unlimited Parameters to Function |
+| 4      | Recursive Functions                      |
+| 5      | Function Asset Check                     |
+| 6      | Generetor Functions                      |
+| 7      | Static Variable in Functions             |
+| 8      | Return selected data type from Function  |
+
+
+#### 1. Function Identification
+-
+
+#### 2. Anonymous Functions
+-
+
+#### 3. Sending Unlimited Parameters to Function
+-
+
+#### 4. Recursive Functions
+-
+
+
+#### 5. Function Asset Check
+-
+
+
+#### 6. Generetor Functions
+-
+
+
+#### 7. Static Variable in Functions
+-
+
+
+#### 8. Return Selected Data Type from Function
+-
