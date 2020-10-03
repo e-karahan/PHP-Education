@@ -129,7 +129,7 @@ if we need to make operation in necessary range, this is the best way. Also can 
 if we don't need range and if we just want to do array operation, best way!
 
 #### 3. While Loop
--
+keep working while condition is true. 
 
 #### 4. Do-While
 -
