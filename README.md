@@ -153,7 +153,7 @@ working once whatever condition. If condition true, keep working.
 if we don't want to write same code again and want to make regular, best way is this and also want to access a variable  in the function, we'll use global variable.
 
 #### 2. Anonymous Functions
--
+principally same with normal function. Difference between is anonymous function getting data or working rather than parameters. You don't need to code a new function just write and skip that and also you can use  "use" with functions and that's making get a variable or function in function(Line: 17, 50).
 
 #### 3. Sending Unlimited Parameters to Function
 -
