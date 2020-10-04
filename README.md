@@ -150,7 +150,7 @@ working once whatever condition. If condition true, keep working.
 
 
 #### 1. Function Identification
--
+if we don't want to write same code again and want to make regular, best way is this and also want to access a variable  in the function, we'll use global variable.
 
 #### 2. Anonymous Functions
 -
