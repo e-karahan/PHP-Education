@@ -159,8 +159,7 @@ principally same with normal function. Difference between is anonymous function 
 till this lesson, i  was only know we should decide to how many parameters we send before create a function. But we can catch how many parameters we send and list all of parameters and print selected parameter in array.
 
 #### 4. Recursive Functions
--
-
+some arrays have more subarrays inside and we don't know how long takes. That's why it's not possible to write a foreach code for every situation. But it's possible to make by recursive functions.
 
 #### 5. Function Asset Check
 -
