@@ -143,7 +143,7 @@ working once whatever condition. If condition true, keep working.
 | 2      | Anonymous Functions                      |
 | 3      | Sending Unlimited Parameters to Function |
 | 4      | Recursive Functions                      |
-| 5      | Function Asset Check                     |
+| 5      | Function Exists Check                    |
 | 6      | Generetor Functions                      |
 | 7      | Static Variable in Functions             |
 | 8      | Return selected data type from Function  |
@@ -161,17 +161,14 @@ till this lesson, i  was only know we should decide to how many parameters we se
 #### 4. Recursive Functions
 some arrays have more subarrays inside and we don't know how long takes. That's why it's not possible to write a foreach code for every situation. But it's possible to make by recursive functions.
 
-#### 5. Function Asset Check
--
-
+#### 5. Function Exists Check
+server will load php file before running and if function is not exists, it's will be problem so we have to check functions before using.
 
 #### 6. Generetor Functions
 -
 
-
 #### 7. Static Variable in Functions
 -
-
 
 #### 8. Return Selected Data Type from Function
 -

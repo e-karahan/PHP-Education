@@ -105,7 +105,7 @@
     return false;
   }
 
-  echo find_in_array($arr, 'taekwondo');
+  echo find_in_array($arr, 'taekwondo'); // yes
 
 
 ?>

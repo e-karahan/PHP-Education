@@ -57,13 +57,16 @@
 
 
   $p = 'Ceyh';
-  //echo substr($p, 0, 10) . '..'; // Ceyhun Bah..
+  //echo mb_substr($p, 0, 10) . '..'; // Ceyhun Bah..
 
   function abbreviation($str, $limit = 10){
     $length = strlen($str);
     if($length > $limit){
-      $str = substr($str, 0, $limit) . '..';
-      return $str;
+      if(function_exists('mb_substr')){
+        $str = mb_substr($str, 0, $limit, 'utf8') . '..';
+      } else{
+        $str = substr($str, 0, $limit) . '..';
+      }
     }
     return $str;
   }
