@@ -144,7 +144,7 @@ working once whatever condition. If condition true, keep working.
 | 3      | Sending Unlimited Parameters to Function |
 | 4      | Recursive Functions                      |
 | 5      | Function Exists Check                    |
-| 6      | Generetor Functions                      |
+| 6      | Generator Functions                      |
 | 7      | Static Variable in Functions             |
 | 8      | Return selected data type from Function  |
 
@@ -164,8 +164,8 @@ some arrays have more subarrays inside and we don't know how long takes. That's 
 #### 5. Function Exists Check
 server will load php file before running and if function is not exists, it's will be problem so we have to check functions before using.
 
-#### 6. Generetor Functions
--
+#### 6. Generator Functions
+Maybe it's not necessary in simple projects but if you want to do big project(more than 1 million data) and don't want to face to face memory problem, please use "yield". 100 times more memory performance!
 
 #### 7. Static Variable in Functions
 -
