@@ -24,6 +24,7 @@ I think we shouldn't look what is the best of programming language. I think we s
 | 4      | Arrays             |
 | 5      | Loops              |
 | 6      | Functions          |
+| 7      | Defined Functions  |
 
 ### 1.Introduction
 
@@ -172,3 +173,27 @@ if you call a function 2 times and if each calls make a operation, every operati
 
 #### 8. Return Selected Data Type from Function
 It's not necessary but if you work together and have to put rules about data type, it's necessary.  This features of PHP 7 making possibble to return selected data type and making strong with declare "strict_types = 1"
+
+### 6. Defined Functions
+
+| Number | Subject             |
+| 1      | Array Functions - 1 |
+| 2      | Array Functions - 2 |
+| 3      | Array Functions - 3 |
+| 4      | String Functions    |
+| 5      | prinf() Functions   |
+
+#### 1. Array Functions - 1
+-
+
+#### 2. Array Functions - 2
+-
+
+#### 3. Array Functions - 3
+-
+
+#### 4. String Functions
+-
+
+#### 5. prinf() Functions
+-
