@@ -168,7 +168,7 @@ server will load php file before running and if function is not exists, it's wil
 Maybe it's not necessary in simple projects but if you want to do big project(more than 1 million data) and don't want to face to face memory problem, please use "yield". 100 times more memory performance!
 
 #### 7. Static Variable in Functions
--
+if you call a function 2 times and if each calls make a operation, every operation gonna clear before operation. If you want to keep all of this, you need to use "static" variable.
 
 #### 8. Return Selected Data Type from Function
 -
