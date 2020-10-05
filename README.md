@@ -177,6 +177,7 @@ It's not necessary but if you work together and have to put rules about data typ
 ### 6. Defined Functions
 
 | Number | Subject             |
+| ---    | ---                 |
 | 1      | Array Functions - 1 |
 | 2      | Array Functions - 2 |
 | 3      | Array Functions - 3 |
